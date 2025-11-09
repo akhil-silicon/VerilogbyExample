@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module 1_busSignal_a(
+module busSignal_a(
  in_1,
  in_2,
  in_3,
